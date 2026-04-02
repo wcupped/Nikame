@@ -1,2 +1,2 @@
-print('Hello, Nikame!')
-print('Test')
+print("МАРК ХУЕСОС")
+print("МАРК ХУЕСОС АКТИВИРОВАНО")
